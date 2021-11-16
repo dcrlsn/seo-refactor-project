@@ -1,9 +1,12 @@
 # Horiseon accessibility and refactoring
+![Homepage](./assets/images/horiseon.png)
+[Deployed Site](https://dcrlsn.github.io/seo-refactor-project/)
 
 ## Table of Content
 
 - [Description](#Description)
 - [Refactoring](#Refactoring)
+
 
 ## Description
 The site originally was not using semantic elements and was lacking accessibility alt text and descriptions. The assets were also massively oversized for their use on the site. Many of the CSS classes were also redundant.
